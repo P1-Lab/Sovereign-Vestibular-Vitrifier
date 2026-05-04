@@ -32,9 +32,4 @@ Integrated with `nausea_threshold_audit.py`, the system monitors the **Sensory G
 ### **Commercial Impact**
 The mining industry represents an immediate, high-volume revenue stream. These companies aren't looking for "entertainment VR"; they are looking for **Industrial Uptime**. Reframing the SVV as **Safety Equipment** allows you to tap into operational budgets rather than experimental tech budgets.
 
-**Next in the priority sequence:**
-1.  **Extraterrestrial Remote Ops (Space)** — The "Extreme-Margin" Tier.
-2.  **Sub-Surface Telepresence (Deep Sea)** — The "Infrastructure Defense" Tier.
-3.  **Nano-Technology Manipulation** — The "Future-Scale" Tier.
 
-Shall we proceed to the **Space-Ops-Manifesto.md**?
