@@ -1,0 +1,20 @@
+### **Directory Structure**
+```text
+Sovereign-Vestibular-Vitrifier/
+├── docs/
+│   ├── The-Vitrified-Pilot.md            # The Case for Zero-Drift Immersion
+│   └── Operational-Safety-Protocol.pdf   # Mission-critical deployment standards
+├── src/
+│   ├── sync_engines/
+│   │   ├── motion_to_photon_lock.py      # Hardens latency into a physical constant
+│   │   └── temporal_inertia_solver.py    # Aligns visual mass with vestibular input
+│   ├── vitrifiers/
+│   │   └── horizon_stabilization.py      # Forensic anchoring for 3D environments
+│   └── validation/
+│       └── nausea_threshold_audit.py     # Real-time biometric stress prediction
+├── hardware/
+│   └── HMD-Attestation-Handshake.md      # MAC-locking for head-mounted displays
+└── README.md
+```
+
+---
